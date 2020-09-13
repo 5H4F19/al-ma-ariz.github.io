@@ -1,0 +1,216 @@
+#Why_AL_MAARIZ_halal_ {
+    margin-top: 5rem;
+    overflow: visible;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 39px;
+    color: rgba(112,128,138,1);
+    letter-spacing: 0.5px;
+}
+#Because_we_dont_invest_in_- {
+
+    overflow: visible;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Candara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(161,164,167,1);
+    letter-spacing: 0.5px;
+
+}
+ .row{
+   margin-top: 3.5rem;
+}
+    #tobacco {
+
+    width: 100.593px;
+    height: auto;
+
+    
+}
+#ahchohol {
+
+    width: 73.415px;
+    height: auto;
+
+    overflow: visible;
+}
+#food {
+
+    width: 87.733px;
+    height: auto;
+
+    overflow: visible;
+}
+#gun {
+
+    width: 108px;
+    height: auto;
+
+    overflow: visible;
+}
+#gambliing {
+
+    width: 114.398px;
+    height: auto;
+
+    overflow: visible;
+}
+#debt {
+
+    width: 126.37px;
+    height: auto;
+    overflow: visible;
+}
+#adult {
+    
+    width: 93px;
+    height: auto;
+
+    overflow: visible;
+}
+#usurious {
+
+    width: 93px;
+    height: auto;
+
+    overflow: visible;
+}
+#TOBACCO_ {
+
+    overflow: visible;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Candara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(161,164,167,1);
+    letter-spacing: 0.5px;
+}
+#AHCHOHOL_ {
+
+
+    overflow: visible;
+
+    white-space: nowrap;
+    text-align: left;
+    font-family: Candara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(161,164,167,1);
+    letter-spacing: 0.5px;
+}
+#HARAM_FOOD {
+
+    overflow: visible;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Candara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(161,164,167,1);
+    letter-spacing: 0.5px;
+}
+#FIREARMS {
+
+    overflow: visible;
+
+    white-space: nowrap;
+    text-align: left;
+    font-family: Candara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(161,164,167,1);
+    letter-spacing: 0.5px;
+}
+#GAMBLING {
+
+    overflow: visible;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Candara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(161,164,167,1);
+    letter-spacing: 0.5px;
+}
+#EXCESS_DEBT {
+
+    overflow: visible;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Candara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(161,164,167,1);
+    letter-spacing: 0.5px;
+}
+#ADULT_ENTERTAINMRNT {
+
+    overflow: visible;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Candara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(161,164,167,1);
+    letter-spacing: -0.47px;
+}
+#USURIOUS_INSTITUTION {
+
+    overflow: visible;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Candara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(161,164,167,1);
+    letter-spacing: -0.47px;
+}
+.box{
+    height: 130px;
+    width: 120px;
+    margin-top: 2rem;
+    overflow: hidden;
+
+}
+.BOX{
+    padding-left:3.5em;
+}
+
+@media only screen and (max-width: 786px) {
+    #Why_AL_MAARIZ_halal_ {
+  
+    font-size: 20px;
+    
+}
+#Because_we_dont_invest_in_- {
+
+    font-size: 15px;
+
+}
+.BOX{
+
+    padding-left: 5px;
+}
+ 
+ #TOBACCO_,#AHCHOHOL_,#HARAM_FOOD,#FIREARMS,#GAMBLING,#EXCESS_DEBT,#ADULT_ENTERTAINMRNT 
+ ,#USURIOUS_INSTITUTION{
+    font-size: 15px;
+    text-align: left;
+ }
+
+}
