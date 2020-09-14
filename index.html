@@ -236,6 +236,7 @@
             .navber-wrapper .ul .li{
                 text-decoration: none;
                 color:#ACA88F;
+                padding:0px 15px;
             }
             .brands{
                 margin-top: 20px;
@@ -257,7 +258,7 @@
                 font-weight: bold;
                 text-align: center;
                 font-size:14px;
-                padding: 5px 20px;
+                padding:;
             }
             .buttons{
                 margin-top: -33px;
@@ -269,7 +270,11 @@
                 color: #d3b634;
             }
             .contexts a:hover{
-                color: rgb(29, 236, 150);
+                 color: rgb(29, 236, 150);
+                border-top:3px solid  rgb(29, 236, 150);
+                padding-top: 15px;
+                transition-duration: 300ms;
+                
             }
             .get_started{
             font-family: Century Gothic;
@@ -375,7 +380,7 @@
             </div>        
        
             <div class="ul mx-auto contexts">
-                <div class="li"><a href="">Profile</a></div>
+                <div class="li"><a href="https://shafik-soweb.github.io/profile.github.io/">Profile</a></div>
                 <div class="li"><a href="">Sharia</a></div>
                 <div class="li"><a href="">About</a></div>
                 <div class="li"><a href="">Statistics</a></div>
@@ -700,7 +705,13 @@
           $('h4').removeClass('H4class');
           $('.fas').removeClass('icon-humberg');
         });
-
+          $("#profile").click(function(){
+            window.location.href = "https://shafik-soweb.github.io/profile.github.io/";
+        });
+        
+        
+        
+        
     </script>
 
 </body>
